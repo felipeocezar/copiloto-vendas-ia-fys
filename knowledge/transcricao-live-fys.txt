@@ -1,0 +1,38 @@
+Transcrição da live "FYS: Por Dentro da Marca, Desafios e Ideias para o Projeto Final" - Bootcamp Heineken: Inteligência Artificial Aplicada a Vendas (DIO).
+
+Hoje vamos falar da marca FYS, da Heineken. Vamos ficar por dentro da marca, entender os desafios e ter algumas ideias para os projetos do Bootcamp.
+
+Convidados: Lucas (analista responsável pela estratégia de comunicação da marca FYS, time FYS dentro do grupo Heineken) e Pri (responsável pelo time de trade, faz a ponte entre marketing e trade).
+
+Sobre o Grupo Heineken e a FYS: o Grupo Heineken é uma casa de marcas de diversos segmentos do mercado de bebidas, incluindo marcas não alcoólicas como FYS e Tubaína (refrigerantes mainstream), suco Skinka, água mineral Skin (com e sem gás), além de marcas dentro do ecossistema Heineken Spin, focado em negócios e marcas de impacto social/ambiental (ex: Mambô Water e Bem Mais).
+
+FYS é o refrigerante do grupo Heineken, lançado em 2019 e relançado em 2021 com uma nova proposta de valor mais alinhada às tendências de consumo:
+- 50% menos açúcar nos sabores regulares em relação à média do mercado, além de versões zero açúcar.
+- Foco em consumo individual (porções menores), reduzindo plástico no portfólio - hoje trabalha apenas com lata de 350ml.
+- Identidade visual moderna, destacando as frutas da composição e benefícios do produto.
+- Marca mainstream, presente em mais de 70% do território nacional (não cobre a região Norte), representando mais de 70% do consumo de refrigerante no Brasil nesse recorte.
+- Produto do grupo Heineken com ingredientes de qualidade; o sabor laranja tem 10% de teor de suco, vs média de mercado de 2,5%.
+
+Portfólio: sabores regulares (50% menos açúcar) - Guaraná da Amazônia, Limão Siciliano e Laranja-Pera; versões Zero - Limão Siciliano e Guaraná da Amazônia; e Tônica (regular com 45% menos açúcar e versão zero), ideal para drinks.
+
+Por que comprar FYS: segmento de refrigerante zero e de consumo individual está em constante crescimento. Hoje 15% do volume da marca FYS já é do segmento zero, com tendência de crescimento.
+
+Comunicação da marca: a FYS se conecta com o público (jovens adultos) através do humor, pensando nas pressões do dia a dia ("logo na minha vez de ser adulto, o carro mais baratinho custa cem mil..."). A ideia é que a FYS seja o aliado para aliviar a pressão e a tensão do dia a dia, mesmo "depois de um dia merda" - "a gente está na merda, mas a gente está rindo". Posicionamento de marca: não se levar tão a sério. A FYS brinca que é um refri pouco conhecido, que não faz parte das grandes marcas, e que existe leveza e diversão em não ser o número um - daí a campanha "Não ser número um pode render boas risadas".
+
+Exemplos de campanha citados: vídeos com humor autoirônico ("Eu não conhecia, mas é do grupo Heineken. Podia ser número um. E é por isso que eu sou perfeita pra FYS"), conteúdo com influenciadores de humor estilo "vida de CLT", e um vídeo satirizando o próprio processo corporativo de marketing (uma "reunião de três horas que podia ter sido um e-mail", terminando no post simples "Fizz. Fui eu que fiz. Postado pela Heineken"). Instagram oficial: @fys_oficial.
+
+Pergunta sobre o nome: "Fizz" remete ao som da lata abrindo - a marca brinca com esse som em seu "ácido sonoro".
+
+Desafio do canal padarias (apresentado pela Pri): padarias são um subcanal muito relevante para refrigerantes no Brasil. Segundo dados Nielsen, existem cerca de 72 mil padarias no país, sendo 15 mil no estado de São Paulo (21% do total nacional) e cerca de 6 mil só na Grande São Paulo - ou seja, 1 em cada 5 padarias do país está em São Paulo. O mercado de refrigerante single-serve sem cola nas padarias movimenta cerca de 245-246 mil hectolitros/ano. A FYS representa apenas 0,9% desse mercado - menos de 1% de participação. Em penetração por estado, destacam-se Bahia, Rio Grande do Sul, Paraná e Minas Gerais.
+
+Por que a penetração é baixa: apesar do alto potencial, o vendedor da Heineken prioriza pontos de venda onde consegue vender mais cerveja (bares, casas noturnas, baladas), não padarias. "O vendedor não tem oito braços" - então as padarias ficam pouco exploradas na rotina comercial. O desafio proposto pela FYS: criar uma solução que ajude a identificar, priorizar e ativar padarias, reduzindo a dependência da força de vendas tradicional.
+
+Perguntas e respostas da live:
+- Ticket médio de venda: cerca de R$ 3,19 por unidade (varia por ponto de venda).
+- Sabor mais vendido: Guaraná da Amazônia.
+- Participação no Amazonas: muito baixa, com grande oportunidade de crescimento.
+- Sobre se o consumidor de padaria em SP trocaria de marca: o maior desafio da FYS, não só em padarias, é fazer a marca ser conhecida - "muita gente ainda não sabe que FYS existe, nem que é da Heineken". A oportunidade está em gerar experimentação: "não quero ser o número um, mas quero que você me dê uma chance". Os principais desafios são conhecimento de marca, visibilidade e disponibilidade.
+- Estratégias de crescimento: ações de mídia em rádio em 6 praças (SC, RS, BA, SP, MG, Recife), patrocínio de programas de humor, ativações com consumidores ("Blitz"), parcerias com influenciadores.
+- Site oficial: fys.com.br - localizador de pontos de venda e carta de drinks.
+
+Recomendação final para o projeto: focar especificamente na marca FYS (não em outras marcas do portfólio Heineken), pois o contexto trazido na live - tom de voz, posicionamento, dados de mercado e desafios reais do canal padarias - é a base de conhecimento ideal para treinar a IA do projeto final. Dica dos convidados: pensar do ponto de vista de quem sente a dor (o dono da padaria), mapear a jornada de relacionamento com a marca, e propor como a IA pode substituir ou apoiar a ausência de um vendedor dedicado a esse canal.
