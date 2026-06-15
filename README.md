@@ -20,7 +20,7 @@ O Copiloto de Escrita FYS resolve esse gap: pega qualquer mensagem comercial for
 
 Um prompt mestre (`agents.md`) define o papel do Copiloto, as regras de processamento e os filtros de restrição. O agente usa três arquivos de contexto na pasta `knowledge/` (transcrição da live, guia de tom de voz e dados do mercado de padarias) como base de conhecimento. Para cada mensagem recebida, a resposta segue um formato fixo de 3 partes: mensagem original (resumo), versão no tom FYS, e o que foi ajustado (cortado, mantido, adicionado).
 
-Essa abordagem nasceu do desafio "Quem Não Vende, Ajuda a Vender", cujo prompt final passo a passo está em [`prompt-final-fys.md`](prompt-final-fys.md) - este projeto final é a evolução desse prompt para um agente completo com base de conhecimento.
+Essa abordagem nasceu do desafio "Quem Não Vende, Ajuda a Vender", cujo prompt final passo a passo está no repositório [desafio-fys-assistente-escrita](https://github.com/felipeocezar/desafio-fys-assistente-escrita) - este projeto final é a evolução desse prompt para um agente completo com base de conhecimento.
 
 ## Base de conhecimento utilizada
 
@@ -54,6 +54,6 @@ Cada exemplo traz a mensagem original, a versão reescrita e a análise do que f
 
 ---
 
-## Outros desafios deste bootcamp neste repositório
+## Outros desafios deste bootcamp
 
-- [`prompt-final-fys.md`](prompt-final-fys.md) - Desafio "Quem Não Vende, Ajuda a Vender! O Poder da Argumentação", prompt passo a passo que deu origem ao Copiloto de Escrita FYS.
+- [desafio-fys-assistente-escrita](https://github.com/felipeocezar/desafio-fys-assistente-escrita) - Desafio "Quem Não Vende, Ajuda a Vender! O Poder da Argumentação", prompt passo a passo que deu origem ao Copiloto de Escrita FYS.
